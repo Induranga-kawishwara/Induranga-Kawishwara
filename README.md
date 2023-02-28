@@ -12,7 +12,7 @@
 - 🌱I’m currently learning about python,java and html  
   
 
-- I made this for fun.😜  
+- 😜I made this for fun.  
   
 
 <br/>  
