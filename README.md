@@ -30,7 +30,7 @@
 
 
 
-### ✍️ Random Dev Quoter<hr>
+### ✍️ Random Dev Quoter<hr style="width:3px">
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -44,7 +44,7 @@
 
 </div>
 
-## Recent Blog Posts  
+## 👀 View count 
   
 <br/>  
 <br/>  
