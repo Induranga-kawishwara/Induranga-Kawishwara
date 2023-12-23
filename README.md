@@ -30,7 +30,7 @@
 
 
 
-### ✍️ Random Dev Quoter
+## ✍️ Random Dev Quoter
 <br/>
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <br/>
 <div align="center">
 
