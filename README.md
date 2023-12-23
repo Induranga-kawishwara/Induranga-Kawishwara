@@ -26,7 +26,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=induranga-kawishwara&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=Induranga-kawishwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</div>  
 
 <br/>  
 
