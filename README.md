@@ -25,8 +25,7 @@
 
 
 
-### ✍️ Random Dev Quote
-<hr>
+### ✍️ Random Dev Quoter<hr/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
