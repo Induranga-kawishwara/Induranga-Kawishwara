@@ -30,14 +30,14 @@
 
 
 
-### ✍️ Random Dev Quoter<hr style="width:3px">
+### ✍️ Random Dev Quoter<br/>
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-### 🔝 Top Contributed Repo<hr> 
+### 🔝 Top Contributed Repo<br/>
 <div align="center">
 
   ![](https://github-contributor-stats.vercel.app/api?username=Induranga-kawishwara&limit=5&theme=dark&combine_all_yearly_contributions=true)
