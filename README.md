@@ -28,10 +28,10 @@
 ### ✍️ Random Dev Quoter<hr/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo<hr/><div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=Induranga-kawishwara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Recent Blog Posts  
+</div>## Recent Blog Posts  
   
 <br/>  
 <br/>  
