@@ -8,26 +8,14 @@
   
 
 # 💫 About Me:
-👋 𝐼'𝓂 𝓘𝓷𝓭𝓾𝓻𝓪𝓷𝓰𝓪 𝓚𝓪𝔀𝓲𝓼𝓱𝔀𝓪𝓻𝓪🔭 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝑜𝓃 𝓑𝓾𝓫𝓩𝓮𝓻𝓸<br>🌱 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝓳𝓪𝓿𝓪,𝓻𝓮𝓪𝓬𝓽𝓙𝓢, 𝓶𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼, 𝓮𝓽𝓬.<br>📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒 indurangakawishwara2003@gmail.com<br>👨‍💻 𝒜𝓁𝓁 𝑜𝒻 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓇𝑒 𝒶𝓋𝒶𝒾𝓁𝒶𝒷𝓁𝑒 𝒶𝓉 https://bit.ly/3TFpDJ7<br>📝 𝐼 𝓇𝑒𝑔𝓊𝓁𝒶𝓇𝓁𝓎 𝓌𝓇𝒾𝓉𝑒 𝒶𝓇𝓉𝒾𝒸𝓁𝑒𝓈 𝑜𝓃 https://medium.com/@indurangakawishwara2003<br>⚡ 𝐹𝓊𝓃 𝒻𝒶𝒸𝓉 𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘'𝓶 𝓯𝓾𝓷𝓷𝔂
+👋 𝐼'𝓂 𝓘𝓷𝓭𝓾𝓻𝓪𝓷𝓰𝓪 𝓚𝓪𝔀𝓲𝓼𝓱𝔀𝓪𝓻𝓪<br>🔭 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝑜𝓃 𝓑𝓾𝓫𝓩𝓮𝓻𝓸<br>🌱 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝓳𝓪𝓿𝓪,𝓻𝓮𝓪𝓬𝓽𝓙𝓢, 𝓶𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼, 𝓮𝓽𝓬.<br>📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒 indurangakawishwara2003@gmail.com<br>👨‍💻 𝒜𝓁𝓁 𝑜𝒻 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓇𝑒 𝒶𝓋𝒶𝒾𝓁𝒶𝒷𝓁𝑒 𝒶𝓉 https://bit.ly/3TFpDJ7<br>📝 𝐼 𝓇𝑒𝑔𝓊𝓁𝒶𝓇𝓁𝓎 𝓌𝓇𝒾𝓉𝑒 𝒶𝓇𝓉𝒾𝒸𝓁𝑒𝓈 𝑜𝓃 https://medium.com/@indurangakawishwara2003<br>⚡ 𝐹𝓊𝓃 𝒻𝒶𝒸𝓉 𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘'𝓶 𝓯𝓾𝓷𝓷𝔂
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#7082) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/induranga.kawishwara.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_induranga_kawishwara_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/induranga-kawishwara-6397a328b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@indurangakawishwara2003) 
 </div>
-
-</td><td valign="top" width="33%">
 
 
 
