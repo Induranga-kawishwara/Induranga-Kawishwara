@@ -1,58 +1,81 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" align="center" width= 60% />
-</div>  
-  
-<br/>
+  <img src="https://media1.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" width="60%" />
+  <h1>𝕀𝕟𝕕𝕦𝕣𝕒𝕟𝕘𝕒 𝕂𝕒𝕨𝕚𝕤𝕙𝕨𝕒𝕣𝕒</h1>
+  <h3>🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 🎨 UI/UX Designer</h3>
+</div>
 
-<div align="center">𝔼𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕 𝕠𝕗 ℂ𝕠𝕕𝕚𝕟𝕘: 𝕁𝕠𝕦𝕣𝕟𝕖𝕪 𝕠𝕗 𝕒 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕊𝕣𝕚 𝕃𝕒𝕟𝕜𝕒</div>  
-  
+---
 
-# 💫 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:
-👋 𝐼'𝓂 𝓘𝓷𝓭𝓾𝓻𝓪𝓷𝓰𝓪 𝓚𝓪𝔀𝓲𝓼𝓱𝔀𝓪𝓻𝓪<br>🔭 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝓪𝓉 𝓑𝓾𝓫𝓩𝓮𝓻𝓸<br>🌱 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝓳𝓪𝓿𝓪,𝓻𝓮𝓪𝓬𝓽𝓙𝓢, 𝓶𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼, 𝓮𝓽𝓬.<br>📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒 indurangakawishwara2003@gmail.com<br>👨‍💻 𝒜𝓁𝓁 𝑜𝒻 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓇𝑒 𝒶𝓋𝒶𝒾𝓁𝒶𝒷𝓁𝑒 𝒶𝓉 https://bit.ly/3TFpDJ7<br>📝 𝐼 𝓇𝑒𝑔𝓊𝓁𝒶𝓇𝓁𝓎 𝓌𝓇𝒾𝓉𝑒 𝒶𝓇𝓉𝒾𝒸𝓁𝑒𝓈 𝑜𝓃 https://medium.com/@indurangakawishwara2003<br>⚡ 𝐹𝓊𝓃 𝒻𝒶𝒸𝓉 𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘'𝓶 𝓯𝓾𝓷𝓷𝔂
+### 🛠️ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕊𝕥𝕒𝕔𝕜
 
-<br/>  
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
-# 🌐 𝙎𝙤𝙘𝙞𝙖𝙡𝙨:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#7082) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/induranga.kawishwara.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_induranga_kawishwara_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/induranga-kawishwara-6397a328b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@indurangakawishwara2003) 
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-# 💻 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-# 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨:
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+### 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+
 <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=Induranga-kawishwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Induranga-kawishwara&theme=dark&hide_border=false)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Induranga-kawishwara&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&theme=vision-friendly-dark&hide_border=true)
+  
+  ![Snake animation](https://github.com/Induranga-kawishwara/Induranga-kawishwara/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
+---
 
+### 📫 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕄𝕖
 
+<div align="center">
+  <a href="https://linkedin.com/in/induranga-kawishwara-6397a328b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:indurangakawishwara2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://medium.com/@indurangakawishwara2003">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://bit.ly/3TFpDJ7">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
+</div>
 
-# ✍️ 𝙍𝙖𝙣𝙙𝙤𝙢 𝘿𝙚𝙫 𝙌𝙪𝙤𝙩𝙚𝙧
-<br/>
+---
+
+### 🎯 𝔾𝕚𝕥ℍ𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
+
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-# 🔝 𝙏𝙤𝙥 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙍𝙚𝙥𝙤
-<br/>
+---
+
 <div align="center">
-
-  ![](https://github-contributor-stats.vercel.app/api?username=Induranga-kawishwara&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+  <img src="https://komarev.com/ghpvc/?username=induranga-kawishwara&label=Profile+Views&color=blueviolet&style=flat">
 </div>
-
-# 👀 𝙑𝙞𝙚𝙬 𝙘𝙤𝙪𝙣𝙩 
-  
-<br/>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=induranga-kawishwara&&style=flat-square" align="center" />
-</div>  
-<br><br>
-
