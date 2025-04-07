@@ -5,8 +5,8 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - master
+  branches:
+    - main
 
 jobs:
   generate:
