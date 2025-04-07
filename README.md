@@ -1,81 +1,78 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/S8rEAbtG4WA2ULH7CH/giphy.gif" width="60%" />
-  <h1>𝕀𝕟𝕕𝕦𝕣𝕒𝕟𝕘𝕒 𝕂𝕒𝕨𝕚𝕤𝕙𝕨𝕒𝕣𝕒</h1>
-  <h3>🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 🎨 UI/UX Designer</h3>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="60%" alt="Coding Journey"/>
+  <h1 align="center">𝐈𝐧𝐝𝐮𝐫𝐚𝐧𝐠𝐚 𝐊𝐚𝐰𝐢𝐬𝐡𝐰𝐚𝐫𝐚</h1>
+  <h3 align="center">🔮 Turning Coffee into Code | 🚀 Full Stack Alchemist | ☁️ Cloud Sorcerer</h3>
 </div>
 
 ---
 
-### 🛠️ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕊𝕥𝕒𝕔𝕜
+### 🧙‍♂️ 𝕄𝕪 𝕄𝕒𝕘𝕚𝕔 𝕎𝕒𝕟𝕕
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+**✨ Spell Components**  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+**🖥️ Frontend Magic**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**🔮 Backend Wizardry**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-**DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+**📚 Scrolls of Knowledge**  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+**☁️ Cloud Cauldron**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 ---
 
-### 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+### 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕄𝕒𝕘𝕚𝕔 𝕄𝕖𝕥𝕣𝕚𝕔𝕤
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Induranga-kawishwara&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&theme=vision-friendly-dark&hide_border=true)
-  
-  ![Snake animation](https://github.com/Induranga-kawishwara/Induranga-kawishwara/blob/output/github-contribution-grid-snake.svg)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Induranga-kawishwara&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Induranga-kawishwara&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0F2027%2C203A43" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 📫 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕄𝕖
+### 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 𝕒𝕟𝕕 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
+
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
+
+### 🌐 𝕊𝕡𝕖𝕝𝕝𝕓𝕠𝕠𝕜 ℂ𝕠𝕟𝕟𝕖𝕔𝕥𝕚𝕠𝕟𝕤
 
 <div align="center">
   <a href="https://linkedin.com/in/induranga-kawishwara-6397a328b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:indurangakawishwara2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@indurangakawishwara2003">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://bit.ly/3TFpDJ7">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 🎯 𝔾𝕚𝕥ℍ𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
+### 🐍 𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝕊𝕟𝕒𝕜𝕖
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github.com/Induranga-kawishwara/Induranga-kawishwara/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=induranga-kawishwara&label=Profile+Views&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=induranga-kawishwara&label=Visitors+Count&color=blueviolet&style=flat-square">
 </div>
