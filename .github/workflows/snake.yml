@@ -1,8 +1,12 @@
 name: Generate Snake
 
 on:
-
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:      # Manual trigger
+  push:
+    branches:
+      - main             # Trigger on push to main
 
 jobs:
   build:
@@ -13,6 +17,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Important for push access
+
+      - name: Create dist directory
+        run: mkdir -p dist  # Ensure directory exists
 
       - name: Generate Snake
         uses: Platane/snk@v2
@@ -27,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add dist/
+          git add .
           git commit -m "Update snake graphics"
           git push
