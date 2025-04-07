@@ -1,15 +1,14 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
-  workflow_dispatch:      # Manual trigger
+    - cron: "30 23 * * *"  # Runs daily at 23:30 UTC
+  workflow_dispatch:
   push:
-    branches:
-      - main             # Trigger on push to main
+    branches: [main]
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,21 +19,21 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Create dist directory
-        run: mkdir -p dist
+      - name: Create necessary directories
+        run: mkdir -p generated
 
-      - name: Generate Snake
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: "Induranga-kawishwara"  # Hardcode your username
+          github_user_name: "Induranga-kawishwara"  # Your exact username
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            generated/snake.svg
+            generated/snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push
+      - name: Commit and push
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add dist/
-          git commit -m "Update snake graphics"
+          git config --global user.name "github-actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated
+          git commit -m "Update contribution snake"
           git push
