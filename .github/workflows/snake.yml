@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: nelsonjcheng/snk-smooth@v1
+        uses: nelsonjcheng/snk-smooth@main
         with:
           username: Induranga-kawishwara
           outputs: |
