@@ -3,7 +3,6 @@
   <img 
     src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" 
     alt="Animated coding banner" 
-    style="width: 150px; height: auto; border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 255, 196, 0.2);">
 </picture>
 
 
