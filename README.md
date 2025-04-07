@@ -75,9 +75,8 @@
   
   ![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=Induranga-kawishwara&theme=react-dark&hide_border=true&area=true)
   
-  <img src="https://raw.githubusercontent.com/Induranga-kawishwara/Induranga-kawishwara/main/assets/snake.svg" alt="Contribution Snake" width="100%"/>
-  
-  <img src="https://raw.githubusercontent.com/Induranga-kawishwara/Induranga-kawishwara/main/assets/snake-dark.svg" alt="Dark Snake" width="100%"/>
+  <img src="https://github.com/Induranga-kawishwara/Induranga-Kawishwara/blob/output/snake.svg" alt="Contribution Snake" width="100%"/>
+
   
   #### "Feeding the snake with daily commits 🐍☕️"
   
