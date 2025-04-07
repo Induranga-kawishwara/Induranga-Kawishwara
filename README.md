@@ -41,7 +41,9 @@
 ### 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 𝕒𝕟𝕕 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=matrix&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -68,7 +70,21 @@
 ### 🐍 𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝕊𝕟𝕒𝕜𝕖
 
 <div align="center">
-  <img src="https://github.com/Induranga-kawishwara/Induranga-kawishwara/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  
+  #### "Watch My Code Journey Unfold 🐍✨"
+  
+  ![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=Induranga-kawishwara&theme=react-dark&hide_border=true&area=true)
+  
+  <img src="https://raw.githubusercontent.com/Induranga-kawishwara/Induranga-kawishwara/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  
+  <img src="https://raw.githubusercontent.com/Induranga-kawishwara/Induranga-kawishwara/main/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="100%"/>
+  
+  #### "Feeding the snake with daily commits 🐍☕️"
+  
+  ![Contribution](https://img.shields.io/badge/Daily%20Commits-1%20k%2B-brightgreen)
+  ![Streak](https://img.shields.io/badge/Current%20Streak-7%20Days-orange)
+  ![Time Zone](https://img.shields.io/badge/Time%20Zone-IST%20(UTC%2B05:30)-blueviolet)
+
 </div>
 
 ---
