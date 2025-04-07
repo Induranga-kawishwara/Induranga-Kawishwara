@@ -1,7 +1,32 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="60%" alt="Coding Journey"/>
-  <h1 align="center">𝐈𝐧𝐝𝐮𝐫𝐚𝐧𝐠𝐚 𝐊𝐚𝐰𝐢𝐬𝐡𝐰𝐚𝐫𝐚</h1>
-  <h3 align="center">🔮 Turning Coffee into Code | 🚀 Full Stack Alchemist | ☁️ Cloud Sorcerer</h3>
+<picture>
+  <img 
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" 
+    alt="Animated coding banner" 
+    style="width: 150px; height: auto; border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 255, 196, 0.2);">
+</picture>
+
+
+  <h1 style="
+      font-family: 'Pacifico', cursive;
+      background: linear-gradient(45deg, #00ff88, #00a3ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 20px rgba(0,255,136,0.3);
+      margin: 20px 0;">
+    Induranga Kawishwara
+  </h1>
+
+  <div style="
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: 20px 0;">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor" 
+      alt="Animated typing text">
+  </div>
 </div>
 
 ---
