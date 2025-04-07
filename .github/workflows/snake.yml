@@ -9,27 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required to push the generated snake
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Add this line
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add assets/
-          git commit -m "Update snake"
+          git add dist/
+          git commit -m "Update snake graphics"
           git push
