@@ -81,10 +81,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Induranga-kawishwara&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0F2027%2C203A43" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ### 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 𝕒𝕟𝕕 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
