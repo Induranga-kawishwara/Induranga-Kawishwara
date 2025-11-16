@@ -77,7 +77,6 @@
 ### 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕄𝕒𝕘𝕚𝕔 𝕄𝕖𝕥𝕣𝕚𝕔𝕤
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Induranga-kawishwara&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true"/>
 </div>
 
