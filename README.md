@@ -71,25 +71,6 @@
 
 </div>
 
-
----
-
-### 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕄𝕒𝕘𝕚𝕔 𝕄𝕖𝕥𝕣𝕚𝕔𝕤
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induranga-kawishwara&layout=compact&langs_count=8&theme=vision-friendly-dark&border_radius=15&hide_border=true"/>
-</div>
-
----
-
-### 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 𝕒𝕟𝕕 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Induranga-kawishwara&theme=matrix&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ### 🌐 𝕊𝕡𝕖𝕝𝕝𝕓𝕠𝕠𝕜 ℂ𝕠𝕟𝕟𝕖𝕔𝕥𝕚𝕠𝕟𝕤
